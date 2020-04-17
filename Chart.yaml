@@ -1,0 +1,15 @@
+apiVersion: v2
+name: cert-manager
+description: Jetstack's cert-manager with CRDs
+type: application
+version: 0.14.2
+appVersion: 0.14.2
+sources:
+  - https://github.com/pacroy/cert-manager-with-crds
+dependencies:
+  - name: cert-manager
+    version: "v0.14.2"
+    repository: "https://charts.jetstack.io"
+maintainers:
+  - name: Par
+    email: pacroy@gmail.com
