@@ -2,7 +2,7 @@
 
 ## IMPORTANCE NOTES!
 
-The latest Jetstack's cert-manager v0.15.0 has now included CRDs in the chart. You can install those CRDs by setting `installCRDs` to `true`.
+This repo is obsoleted. The latest Jetstack's cert-manager v0.15.0 has now included CRDs in the chart. You can install those CRDs by setting `installCRDs` to `true`.
 See https://cert-manager.io/docs/installation/kubernetes/ for more information
 
 ## Local Installation

@@ -1,2 +1,0 @@
-### v0.14.2
-* Initial version
